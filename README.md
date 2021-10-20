@@ -5,7 +5,7 @@
 * Database/Streaming
 
 # Pair Programming
-We will analyze this design among interview
+We will analyze this design among the interview
 ![Image](diagram.png)
 # Getting Started
 
