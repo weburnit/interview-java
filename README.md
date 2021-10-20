@@ -4,6 +4,9 @@
 * SOLID
 * Database/Streaming
 
+# Pair Programming
+We will analyze this design among interview
+![Image](diagram.png)
 # Getting Started
 
 ### Reference Documentation
